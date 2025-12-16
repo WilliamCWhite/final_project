@@ -34,18 +34,31 @@ I believe a different dataset that somehow tracks the concrete impact on a stude
 
 # Contributions
 I'm the only one who worked on this project, and here's what I believe the time contirbutions were:
+
 4 hours - Data Preprocessing and Correlations:  (got caught up in some weird categorical variable correlation method in the deprecated notebook)
+
 1 hours - Setting up Mean Models, Linear Regression, and Random Forests
+
 2.5 hours - PyTorch FNN and hyperparameter tuning (left in deprecated notebook)
+
 2 hours - Keras FNN and hyperparameter tuning (lots of overfitting reduction and long model training periods)
+
 1 hour - Writing throughout jupyter notebook (in deprecated notebook)
+
 1.5 hours - Initial poster
+
 3.5 hours - Full refactor of project, with better performance metrics, designed around error analysis with many dataframes, much more coherent and articulate jupyter notebook descriptions
+
 1 hour - Keras FNN hyperparameter experimentation
+
 3 hours - programming, analyzing, creating visuals, and writing about SHAP for random forest models
+
 1 hours - outlining many-epoch keras model and programming/writing SHAP for it
+
 1 hour - cleaning up jupyter notebook and adding context
+
 2 hours - Creating project poster
+
 23.5 hours total
 
 
